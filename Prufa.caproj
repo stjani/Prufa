@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>Prufa</name>
+    <description></description>
+    <version>1.0</version>
+    <saved-with-version>6700</saved-with-version>
+    <configurations>
+        <configuration exporter-descname="HTML 5" exporter-id="html5" name="HTML 5" />
+    </configurations>
+    <window-size>
+        <width>640</width>
+        <height>480</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <configuration-settings>
+        <prop name="Fullscreen in browser">Off</prop>
+        <prop name="Preview browser">(default)</prop>
+        <prop name="Preview mode">HTTP</prop>
+    </configuration-settings>
+    <object-folder expanded="1">
+        <object-type name="Button">
+            <plugin id="Button" name="Button" />
+        </object-type>
+    </object-folder>
+    <layout-folder expanded="1">
+        <layout>Layout 1.xml</layout>
+    </layout-folder>
+    <event-folder expanded="1">
+        <event-sheet>Event sheet 1.xml</event-sheet>
+    </event-folder>
+    <global-instances />
+    <sounds-folder expanded="1" />
+    <music-folder expanded="1" />
+</c2project>
